@@ -1,4 +1,4 @@
-module github.com/paceperspective/logging
+module github.com/blueambertech/logging
 
 go 1.21.1
 
